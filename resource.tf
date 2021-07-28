@@ -1,5 +1,5 @@
 resource "intersight_server_profile" "server1" {
-  name   = "server1"
+  name   = "qiayu_server1_newcode"
   action = "No-op"
   tags {
     key   = "server"
